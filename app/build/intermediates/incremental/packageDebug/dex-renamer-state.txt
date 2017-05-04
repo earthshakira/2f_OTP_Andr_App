@@ -1,0 +1,7 @@
+#Thu May 04 23:34:48 IST 2017
+base.0=/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63143a328f09ba3b65a6904b8e393d41c6d9c7db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de8280066d22272ab20bf585ca9809c2063df7c4/classes.dex
+base.1=/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de8280066d22272ab20bf585ca9809c2063df7c4
+file.0=/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63143a328f09ba3b65a6904b8e393d41c6d9c7db/classes.dex

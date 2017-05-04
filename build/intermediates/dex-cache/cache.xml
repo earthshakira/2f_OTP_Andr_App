@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_cf25670ac8aaf0d64700f26715892e036cdb2dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_8a6f8e621b64c15762a1e6c1519007504b1eebb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cc7f694d9d66a6e3b94c24e15c36ba02e859f71">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de8280066d22272ab20bf585ca9809c2063df7c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_9addaae43a1ec88483065e0458cfcac0034a5172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_265a560c68c3dd166b349dee8160123716f38222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_becbf8ba8aa0f0bab2130d24a7a25e5a71c28fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_675f224d1ea2ab4be2b25cd71276be74f381877e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_b0093f6c95eeba3d2a664d73f8ae26acf4d10be1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_3ed162e5da920688722570862ed6eb4e8376f342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_50a1366787e14bfd7a39f549f5c02f16f5642a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="866097f31664e0717578031473870ab0d541f7cf">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63143a328f09ba3b65a6904b8e393d41c6d9c7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/earthshakira/AndroidStudioProjects/OTPVerify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_c42fbc363cb78b2d32f2ce5a8584a27d131ae99e/classes.dex" />
+    </item>
+
+</items>

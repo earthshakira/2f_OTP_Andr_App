@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OTPVerify</string>
+    <string name="SENDER_ID">VERIFY</string>
+    <string name="API_KEY">e69de6e6-30bc-11e7-8473-00163ef91450</string>
+    <!--Position allows you to set the no. of words before the OTP occurs in the Message-->
+    <string name="position">0</string>
+    <!-- text values for all the descriptive fields -->
+    <string name="title_desc">The following button can be used to manually control the Broadcast Service</string>
+</resources>
